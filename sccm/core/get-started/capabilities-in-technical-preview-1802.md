@@ -382,7 +382,10 @@ Now there is a new report to show the count of clients with a specific web brows
     `group by BrowserProgId00`
 
 ### Try it out!  
- Try to complete the tasks. Then send **Feedback** from the **Home** tab of the ribbon letting us know how it worked.
+
+#MVPHackaDoc test
+
+Try to complete the tasks. Then send **Feedback** from the **Home** tab of the ribbon letting us know how it worked.
 1. In the **Configuration Manager** console, **Monitoring** workspace, expand **Reporting**, expand **Reports**, select **Software - Companies and Products**.
 2. Run the **Default Browser counts** report.
 
